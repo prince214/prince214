@@ -15,8 +15,6 @@
 
 [![Spotify](https://novatorem-spotify-github-badge.vercel.app/api/spotify)](https://open.spotify.com/user/princeparaste78)
 
-[<img src="https://novatorem-spotify-github-badge.vercel.app/api/spotify-playing" alt="Prince Paraste Spotify Playing" width="350" />](https://open.spotify.com/user/princeparaste78)
-
 ### Connect with me:
 
 [<img align="left" alt="prince214 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]

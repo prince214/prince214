@@ -6,7 +6,7 @@
 
 ## I'm a Developer, Tech Enthusiast, and a Hungry Learner!!
 
-- 🌱 I’m currently learning React and MongoDB 🤣
+- 🌱 I’m currently learning React and MongoDB
 - 🔭 I’m also Working from Home (WFH) due to COVID-19
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play online FPS Games

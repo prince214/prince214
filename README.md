@@ -2,7 +2,7 @@
 
 [![Website](https://raw.githubusercontent.com/prince214/prince214/main/github-codeorcoder.png)](https://codeforcoder.com)
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prince214?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprince214&screen_name=prince214) -->
 
 ## I'm a Developer, Tech Enthusiast, and a Hungry Learner!!
 
@@ -13,15 +13,15 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prince Paraste Spotify Playing" width="350" />](https://open.spotify.com/user/princeparaste78)
+[<img src="https://now-playing-prince214.vercel.app/api/spotify-playing" alt="Prince Paraste Spotify Playing" width="350" />](https://open.spotify.com/user/princeparaste78)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/prince214/prince214/main/black-codeforcoder.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeforcoder.com" width="32px" style="margin-top:-4px" src="https://raw.githubusercontent.com/prince214/prince214/main/black-codeforcoder.png" />][website]
+[<img align="left" alt="prince214 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="prince214 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="prince214 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="prince214 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -56,21 +56,21 @@
 - [Become A VS Code SuperHero Today! | Course Launch](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/prince214)
 
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prince214&show_icons=true&hide_border=true" />
+  <img align="left" alt="prince214's GitHub Stats" src="https://github-readme-stats.prince214.vercel.app/api?username=prince214&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://codeforcoder.com
 [twitter]: https://twitter.com/princeparaste
 [youtube]: https://www.youtube.com/channel/UCq0ug6yOlfE-gmvcOn8YRUg
-[instagram]: https://instagram.com/codeSTACKr
+[instagram]: https://instagram.com/prince214
 [linkedin]: https://linkedin.com/in/princeparaste
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B

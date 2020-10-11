@@ -6,7 +6,7 @@
 
 ## I'm a Developer, Tech Enthusiast, and a Hungry Learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React and MongoDB 🤣
 - 🔭 I’m also Working from Home (WFH) due to COVID-19
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to play online FPS Games
@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeforcoder.com" width="32px" style="margin-top:-4px" src="https://raw.githubusercontent.com/prince214/prince214/main/black-codeforcoder.png" />][website]
+[<img align="left" alt="codeforcoder.com" width="22px" src="https://raw.githubusercontent.com/prince214/prince214/main/black-codeforcoder.svg" />][website]
 [<img align="left" alt="prince214 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="prince214 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="prince214 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

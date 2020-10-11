@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-spotify-github-badge.vercel.app/api/spotify)](https://open.spotify.com/user/princeparaste78)
+[![Spotify](https://novatorem-spotify-github-badge.vercel.app/api/spotify-playing)](https://open.spotify.com/user/princeparaste78)
 
 ### Connect with me:
 

@@ -17,7 +17,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeforcoder.com" width="22px" src="https://raw.githubusercontent.com/prince214/prince214/main/black-codeforcoder.svg" />][website]
 [<img align="left" alt="prince214 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="prince214 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="prince214 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

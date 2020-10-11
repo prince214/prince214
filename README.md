@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React and MongoDB
 - 🔭 I’m also Working from Home (WFH) due to COVID-19
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2020 Goals: Contribute to Open Source projects and escape covid
 - ⚡ Fun fact: I love to play online FPS Games
 
 ### Spotify Playing 🎧

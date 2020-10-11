@@ -1,4 +1,4 @@
-### Hi there, I'm Prince - aka [prince214][website] 👋
+### Hi there, I'm Prince Paraste👋
 
 [![Website](https://raw.githubusercontent.com/prince214/prince214/main/github-codeorcoder.png)](https://codeforcoder.com)
 

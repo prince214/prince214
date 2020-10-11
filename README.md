@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-prince214.vercel.app/api/spotify-playing" alt="Prince Paraste Spotify Playing" width="350" />](https://open.spotify.com/user/princeparaste78)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Prince Paraste Spotify Playing" width="350" />](https://open.spotify.com/user/princeparaste78)
 
 ### Connect with me:
 
@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="prince214's GitHub Stats" src="https://github-readme-stats.prince214.vercel.app/api?username=prince214&show_icons=true&hide_border=true" />
+  <img align="left" alt="prince214's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prince214&show_icons=true&hide_border=true" />
 
 </details>
 

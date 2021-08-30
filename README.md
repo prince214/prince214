@@ -1,8 +1,8 @@
 ### Hi there, I'm Prince Paraste👋
 
-[![Website](https://raw.githubusercontent.com/prince214/prince214/main/github-codeorcoder.png)](https://codeforcoder.com)
+<-- [![Website](https://raw.githubusercontent.com/prince214/prince214/main/github-codeorcoder.png)](https://codeforcoder.com) -->
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=prince214.prince214) -->
+[visitors](https://visitor-badge.glitch.me/badge?page_id=prince214.prince214)
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prince214?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprince214&screen_name=prince214) -->
 

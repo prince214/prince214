@@ -1,6 +1,6 @@
 ### Hi there, I'm Prince Paraste👋
 
-<-- [![Website](https://raw.githubusercontent.com/prince214/prince214/main/github-codeorcoder.png)](https://codeforcoder.com) -->
+<!-- [![Website](https://raw.githubusercontent.com/prince214/prince214/main/github-codeorcoder.png)](https://codeforcoder.com) -->
 
 [visitors](https://visitor-badge.glitch.me/badge?page_id=prince214.prince214)
 

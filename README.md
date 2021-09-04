@@ -6,7 +6,7 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prince214?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprince214&screen_name=prince214) -->
 
-## I'm a Developer, Tech Enthusiast, and a Hungry Learner!!
+## I'm a Software Engineer, Tech Enthusiast, and a Hungry Learner!!
 
 - 🌱 I’m currently learning React and MongoDB
 - 🔭 I’m also Working from Home (WFH) due to COVID-19

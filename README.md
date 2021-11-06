@@ -13,9 +13,9 @@
 - 🥅 2021 Goals: Contribute to Open Source projects and escape covid
 - ⚡ Fun fact: I like to play Valorant
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-spotify-github-badge.vercel.app/api/spotify)](https://open.spotify.com/user/princeparaste78)
+[![Spotify](https://novatorem-spotify-github-badge.vercel.app/api/spotify)](https://open.spotify.com/user/princeparaste78) -->
 
 ### Connect with me:
 

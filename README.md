@@ -8,9 +8,9 @@
 
 ## I'm a Software Engineer, Tech Enthusiast, and a Hungry Learner!!
 
-- 🌱 I’m currently learning React and MongoDB
+- 🌱 Exploring React.js
 - 🔭 I’m also Working from Home (WFH) due to COVID-19
-- 🥅 2021 Goals: Contribute to Open Source projects and escape covid
+- 🥅 Goals: Contribute to Open Source projects and escape covid
 - ⚡ Fun fact: I like to play Valorant
 
 <!-- ### Spotify Playing 🎧

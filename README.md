@@ -10,7 +10,7 @@
 
 - 🌱 Building Projects on React and Angular
 - 🔭 I’m also Working from Home (WFH) due to COVID-19
-- 🥅 Goals: Contribute to Open Source projects and escape covid
+- 🥅 Goals: Contribute to Open Source projects, Become React-GOD, Escape Covid
 - ⚡ Fun fact: I like to play Valorant
 - 🍵 Buy me a [coffee](https://www.buymeacoffee.com/prince.paraste)
 

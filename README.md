@@ -12,7 +12,7 @@
 - 🔭 I’m also Working from Home (WFH) due to COVID-19
 - 🥅 Goals: Contribute to Open Source projects, Escape Covid
 - ⚡ Fun fact: I like to play Valorant
-- 🍵 Buy me a [coffee](https://www.buymeacoffee.com/prince.paraste)
+- 🍵 I also love coffee that you can buy me [here](https://www.buymeacoffee.com/prince.paraste)
 
 <!-- ### Spotify Playing 🎧
 

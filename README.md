@@ -2,8 +2,6 @@
 
 <!-- [![Website](https://raw.githubusercontent.com/prince214/prince214/main/github-codeorcoder.png)](https://codeforcoder.com) -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prince214.visitor-badge)
-
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/prince214?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprince214&screen_name=prince214) -->
 
 ## I'm a Software Engineer, Tech Enthusiast, and a Hungry Learner!!
@@ -39,6 +37,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=prince214.visitor-badge)
 <br />
 
 ---

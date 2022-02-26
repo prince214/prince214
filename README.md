@@ -28,7 +28,7 @@
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/prince214/prince214/ca438e602fd6ce91689e1f089938f3e0d878d9c5/angular.png" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/prince214/prince214/main/angular.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/prince214/prince214/ca438e602fd6ce91689e1f089938f3e0d878d9c5/laravel.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/prince214/prince214/ca438e602fd6ce91689e1f089938f3e0d878d9c5/mysql.svg" />
 

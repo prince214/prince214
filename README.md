@@ -7,7 +7,7 @@
 ## I'm a Software Engineer, Tech Enthusiast, and a Hungry Learner!!
 
 - 🌱 Building Projects on React and Angular
-- 🔭 I’m also Working from Home (WFH) due to COVID-19
+- 🔭 Working from Home
 - 🥅 Goals: Contribute to Open Source projects, Escape Covid
 - ⚡ Fun fact: I like to play Valorant
 - 🍵 I also love coffee that you can buy me [here](https://www.buymeacoffee.com/prince.paraste)

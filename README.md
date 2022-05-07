@@ -6,7 +6,7 @@
 
 ## I'm a Software Engineer, Tech Enthusiast, and a Hungry Learner!!
 
-- 🌱 Building Projects on React and Angular
+- 🌱 Building Projects on React and Web3.0
 - 🔭 Working from Home
 - 🥅 Goals: Contribute to Open Source projects, Escape Covid
 - ⚡ Fun fact: I like to play Valorant

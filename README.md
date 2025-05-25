@@ -6,9 +6,9 @@
 
 ## I'm a Software Engineer, Tech Enthusiast, and a Hungry Learner!!
 
-- 🌱 Building Projects on React and Web3.0
+- 🌱 Building Projects using ai agents
 - 🔭 Working from Home
-- 🥅 Goals: Contribute to Open Source projects, Escape Covid
+- 🥅 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I like to play Valorant
 - 🍵 I also love coffee that you can buy me [here](https://www.buymeacoffee.com/prince.paraste)
 

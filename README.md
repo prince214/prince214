@@ -46,7 +46,6 @@
 
 </details>
 
-[website]: https://codeforcoder.com
 [twitter]: https://twitter.com/princeparaste
 [youtube]: https://www.youtube.com/channel/UCq0ug6yOlfE-gmvcOn8YRUg
 [instagram]: https://www.instagram.com/prince_paraste.dev/
